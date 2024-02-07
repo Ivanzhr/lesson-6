@@ -1,0 +1,15 @@
+.todo {
+    &_items {
+        background-color: #fff;
+        padding: 15px;
+        display: grid;
+        grid-template-columns: auto;
+        align-items: center;
+        cursor: pointer;
+    }
+
+    &_icon {
+        font-size: 30px;
+        
+    }
+}
